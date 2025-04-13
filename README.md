@@ -1,6 +1,7 @@
 ## Hi there, I'm Manish vishav [Manny]👋
 
 Aspiring Equity Research Analyst | Building Manny Infinity (Quant model)| Passionate About Markets, Models & Meaningful Insights
+
 I build tools that transform market noise into actionable insights. Currently developing Manny Infinity—a personal quant model designed to automate trading decisions, forecast trends, and unlock alpha. Sharing my research, learning in public, and always pushing the boundaries of data-driven investing.
 
 ## 🌐 Socials:
